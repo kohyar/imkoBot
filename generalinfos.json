@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5c58dadb9378077c0dd568aa"},"name":"InformationSample1","imagePath":"InformationSample1Pic","filePath":"InformationSample1Info","content":"String","__v":0}
+{"_id":{"$oid":"5c58e142e7179a2ed60ee93c"},"name":"InformationSample2","imagePath":"InformationSample2Pic","filePath":"InformationSample2Info","content":"String"}
+{"_id":{"$oid":"5c58e525e7179a2ed60eeb1c"},"name":"FileSample1","imagePath":"","filePath":"FileSample1.mp3","content":"String"}
+{"_id":{"$oid":"5c58ea51e7179a2ed60eedac"},"name":"FileSample2","imagePath":"","filePath":"FileSample2.mp3","content":"String"}
+{"_id":{"$oid":"5c58ebf9e7179a2ed60eee28"},"name":"InformationWithoutPicture","imagePath":"","filePath":"InformationWithoutPicture","content":"String"}
